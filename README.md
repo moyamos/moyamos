@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### IDEs:
+
+![VIM](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+
+### Databases:
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
+
+
 <!--
 **moyamos/moyamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
