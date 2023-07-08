@@ -3,6 +3,7 @@
 ### IDEs:
 
 ![VIM](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![VIM](https://img.shields.io/badge/-VIM-000)
 
 ### Databases:
 
